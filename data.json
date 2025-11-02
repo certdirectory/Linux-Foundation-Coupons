@@ -1,5 +1,6 @@
 [
   {
+    "title": "Certified Kubernetes Application Developer (CKAD)",
     "product_url": "/certification/certified-kubernetes-application-developer-ckad",
     "code": "GOLDEN30",
     "discount_type": "percent",
@@ -8,6 +9,7 @@
     "type": "certification"
   },
   {
+    "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
     "code": "KUBEFLEX30",
     "discount_type": "percent",
@@ -16,6 +18,7 @@
     "type": "certification"
   },
   {
+    "title": "Certified Kubernetes Security Specialist (CKS)",
     "product_url": "/certification/certified-kubernetes-security-specialist",
     "code": "KUBEFLEX30",
     "discount_type": "percent",
@@ -24,6 +27,7 @@
     "type": "course"
   },
   {
+    "title": "Istio Certified Associate (ICA)",
     "product_url": "/certification/istio-certified-associate-ica",
     "code": "KUBEFLEX30",
     "discount_type": "percent",
@@ -32,6 +36,7 @@
     "type": "certification"
   },
   {
+    "title": "Kubestronaut Bundle",
     "product_url": "/certification/kubestronaut-bundle",
     "code": "KUBEFLEX30",
     "discount_type": "percent",
