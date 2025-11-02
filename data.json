@@ -1,35 +1,52 @@
 [
-  {
-    "product_url": "/certification/certified-kubernetes-application-developer-ckad",
-    "code": "GOLDEN30",
-    "discount_type": "percent",
-    "discount_value": 30,
-    "description": "30% off on CKAD certification",
-    "valid_until": "2025-12-31"
-  },
-  {
-    "product_url": "/certification/certified-kubernetes-administrator-cka",
-    "code": "KUBEFLEX30",
-    "discount_type": "percent",
-    "discount_value": 30,
-    "description": "30% off on CKA certification",
-    "valid_until": "2025-12-31"
-  },
-  {
-    "product_url": "/certification/certified-kubernetes-security-specialist",
-    "code": "KUBEFLEX30",
-    "discount_type": "percent",
-    "discount_value": 30,
-    "description": "30% off on CKS certification",
-    "valid_until": "2025-12-31"
-  },
-  {
-    "product_url": "/certification/istio-certified-associate-ica",
-    "code": "KUBEFLEX30",
-    "discount_type": "percent",
-    "discount_value": 30,
-    "description": "30% off on Istio certification",
-    "valid_until": "2025-12-31"
-  }
-]
-
+    {
+      "product_url": "/certification/certified-kubernetes-application-developer-ckad",
+      "code": "GOLDEN30",
+      "discount_type": "percent",
+      "discount_value": 30,
+      "description": "30% off on CKAD certification",
+      "valid_until": "2025-12-31",
+      "direct_link": "https://tidd.ly/3DDuXXK",
+      "type": "certification"
+    },
+    {
+      "product_url": "/certification/certified-kubernetes-administrator-cka",
+      "code": "KUBEFLEX30",
+      "discount_type": "percent",
+      "discount_value": 30,
+      "description": "30% off on CKA certification",
+      "valid_until": "2025-12-31",
+      "direct_link": "https://tidd.ly/3DFkSJP",
+      "type": "certification"
+    },
+    {
+      "product_url": "/certification/certified-kubernetes-security-specialist",
+      "code": "KUBEFLEX30",
+      "discount_type": "percent",
+      "discount_value": 30,
+      "description": "30% off on CKS certification",
+      "valid_until": "2025-12-31",
+      "direct_link": "https://tidd.ly/4iuILmo",
+      "type": "course"
+    },
+    {
+      "product_url": "/certification/istio-certified-associate-ica",
+      "code": "KUBEFLEX30",
+      "discount_type": "percent",
+      "discount_value": 30,
+      "description": "30% off on Istio certification",
+      "valid_until": "2025-12-31",
+      "direct_link": "https://tidd.ly/4isMzEG",
+      "type": "certification"
+    },
+    {
+      "product_url": "/certification/kubestronaut-bundle",
+      "code": "KUBEFLEX30",
+      "discount_type": "percent",
+      "discount_value": 30,
+      "description": "30% off on Kubestronaut bundle",
+      "valid_until": "2025-12-31",
+      "direct_link": "https://tidd.ly/4kRb0xa",
+      "type": "course"
+    }
+  ]
