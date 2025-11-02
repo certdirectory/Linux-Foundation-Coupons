@@ -24,7 +24,7 @@
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4iuILmo",
-    "type": "course"
+    "type": "certification"
   },
   {
     "title": "Istio Certified Associate (ICA)",
@@ -42,6 +42,15 @@
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4kRb0xa",
+    "type": "certification"
+  },
+  {
+    "title": "Cloud Engineer IT Professional Program",
+    "product_url": "/training/cloud-engineer-itprofessionalprogram/",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4qvPX6e",
     "type": "course"
   }
 ]
