@@ -1,20 +1,20 @@
 [
   {
-    "title": "Certified Kubernetes Application Developer (CKAD)",
-    "product_url": "/certification/certified-kubernetes-application-developer-ckad",
-    "code": "GOLDEN30",
-    "discount_type": "percent",
-    "discount_value": 30,
-    "direct_link": "https://tidd.ly/3DDuXXK",
-    "type": "certification"
-  },
-  {
     "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
     "code": "KUBEFLEX30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3DFkSJP",
+    "type": "certification"
+  },
+  {
+    "title": "Certified Kubernetes Application Developer (CKAD)",
+    "product_url": "/certification/certified-kubernetes-application-developer-ckad",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3DDuXXK",
     "type": "certification"
   },
   {
@@ -27,12 +27,111 @@
     "type": "certification"
   },
   {
+    "title": "Kubernetes Cloud Native Associate (KCNA)",
+    "product_url": "/certification/kubernetes-cloud-native-associate",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3R6IcDd",
+    "type": "certification"
+  },
+  {
+    "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
+    "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3R9ODWa",
+    "type": "certification"
+  },
+  {
+    "title": "Prometheus Certified Associate (PCA)",
+    "product_url": "/certification/prometheus-certified-associate",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/426M1i0",
+    "type": "certification"
+  },
+  {
     "title": "Istio Certified Associate (ICA)",
     "product_url": "/certification/istio-certified-associate-ica",
     "code": "KUBEFLEX30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4isMzEG",
+    "type": "certification"
+  },
+  {
+    "title": "Certified Argo Project Associate (CAPA)",
+    "product_url": "/certification/certified-argo-project-associate-capa",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3R6IWrZ",
+    "type": "certification"
+  },
+  {
+    "title": "Certified GitOps Associate (CGOA)",
+    "product_url": "/certification/certified-gitops-associate-cgoa",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3DGixye",
+    "type": "certification"
+  },
+  {
+    "title": "Cilium Certified Associate (CCA)",
+    "product_url": "/certification/cilium-certified-associate-cca",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/422X77M",
+    "type": "certification"
+  },
+  {
+    "title": "Certified Backstage Associate (CBA)",
+    "product_url": "/certification/certified-backstage-associate-cba",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4iu6NxX",
+    "type": "certification"
+  },
+  {
+    "title": "OpenTelemetry Certified Associate (OTCA)",
+    "product_url": "/certification/opentelemetry-certified-associate-otca",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4kRaAa8",
+    "type": "certification"
+  },
+  {
+    "title": "Kyverno Certified Associate (KCA)",
+    "product_url": "/certification/kyverno-certified-associate-kca",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3DGSBT6",
+    "type": "certification"
+  },
+  {
+    "title": "Linux Foundation Certified Sysadmin (LFCS)",
+    "product_url": "/certification/linux-foundation-certified-sysadmin-lfcs",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3FEvqcE",
+    "type": "certification"
+  },
+  {
+    "title": "Certified Cloud Native Platform Engineering Associate (CNPA)",
+    "product_url": "/certification/certified-cloud-native-platform-engineering-associate-cnpa",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/45PcpPN",
     "type": "certification"
   },
   {
