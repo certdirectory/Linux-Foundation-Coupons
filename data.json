@@ -144,6 +144,141 @@
     "type": "certification"
   },
   {
+    "title": "CKS and KCSA Exam Bundle",
+    "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3FsOhYh",
+    "type": "certification"
+  },
+  {
+    "title": "KCNA and KCSA Exam Bundle",
+    "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4bP59V8",
+    "type": "certification"
+  },
+  {
+    "title": "CKA and CKAD Exam Bundle",
+    "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
+    "code": "KUBEFLEX30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/424IQYb",
+    "type": "certification"
+  },
+  {
+    "title": "CKA and CKS Exam Bundle",
+    "product_url": "/collections/cks-and-cka-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hwPQla",
+    "type": "certification"
+  },
+  {
+    "title": "CKA and KCNA Exam Bundle",
+    "product_url": "/training/kcna-cka-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3DHQKgO",
+    "type": "course"
+  },
+  {
+    "title": "CKA, CKAD and CKS Exam Bundle",
+    "product_url": "/certification/cka-ckad-cks-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4j5MZR3",
+    "type": "certification"
+  },
+  {
+    "title": "Golden Kubestronaut Bundle",
+    "product_url": "/collections/golden-kubestronaut",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4ijaE09",
+    "type": "certification"
+  },
+  {
+    "title": "Kubestronaut to Golden Kubestronaut Upgrade Bundle",
+    "product_url": "/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4iXvJhJ",
+    "type": "certification"
+  },
+  {
+    "title": "CKA to Kubestronaut Upgrade Bundle",
+    "product_url": "/collections/cka-upgrade-to-kubestronaut-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4deE9Pz",
+    "type": "certification"
+  },
+  {
+    "title": "CKAD to Kubestronaut Upgrade Bundle",
+    "product_url": "/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4j5O8bp",
+    "type": "certification"
+  },
+  {
+    "title": "Istio Service Mesh Essentials and ICA Exam Bundle",
+    "product_url": "/certification/istio-service-mesh-essentials-lfs245istio-certified-associate-ica-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3XMREiY",
+    "type": "certification"
+  },
+  {
+    "title": "CAPA and DevOps and Workflow Management with Argo (LFS256) Exam Bundle",
+    "product_url": "/certification/lfs256-capa",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3FtPsGU",
+    "type": "certification"
+  },
+  {
+    "title": "KCNA and LFCA Exam Bundle",
+    "product_url": "/certification/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3XPeHJY",
+    "type": "certification"
+  },
+  {
+    "title": "LFCA and LFS200 Exam Bundle",
+    "product_url": "/certification/fundamentals-of-open-source-it-and-cloud-computing-lfs200-linux-foundation-certified-it-associate-lfca-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3Dvg3Tr",
+    "type": "certification"
+  },
+  {
+    "title": "PCA and LFS241 Exam Bundle",
+    "product_url": "/certification/lfs241-pca",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3FTxKNq",
+    "type": "certification"
+  },
+  {
     "title": "Cloud Engineer IT Professional Program",
     "product_url": "/training/cloud-engineer-itprofessionalprogram",
     "code": "GOLDEN30",
