@@ -2,7 +2,7 @@
   {
     "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3DFkSJP",
@@ -20,7 +20,7 @@
   {
     "title": "Certified Kubernetes Security Specialist (CKS)",
     "product_url": "/certification/certified-kubernetes-security-specialist",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4iuILmo",
@@ -29,7 +29,7 @@
   {
     "title": "Kubernetes Cloud Native Associate (KCNA)",
     "product_url": "/certification/kubernetes-cloud-native-associate",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3R6IcDd",
@@ -38,7 +38,7 @@
   {
     "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3R9ODWa",
@@ -47,7 +47,7 @@
   {
     "title": "Prometheus Certified Associate (PCA)",
     "product_url": "/certification/prometheus-certified-associate",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/426M1i0",
@@ -56,7 +56,7 @@
   {
     "title": "Istio Certified Associate (ICA)",
     "product_url": "/certification/istio-certified-associate-ica",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4isMzEG",
@@ -65,7 +65,7 @@
   {
     "title": "Certified Argo Project Associate (CAPA)",
     "product_url": "/certification/certified-argo-project-associate-capa",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3R6IWrZ",
@@ -74,7 +74,7 @@
   {
     "title": "Certified GitOps Associate (CGOA)",
     "product_url": "/certification/certified-gitops-associate-cgoa",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3DGixye",
@@ -83,7 +83,7 @@
   {
     "title": "Cilium Certified Associate (CCA)",
     "product_url": "/certification/cilium-certified-associate-cca",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/422X77M",
@@ -92,7 +92,7 @@
   {
     "title": "Certified Backstage Associate (CBA)",
     "product_url": "/certification/certified-backstage-associate-cba",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4iu6NxX",
@@ -101,7 +101,7 @@
   {
     "title": "OpenTelemetry Certified Associate (OTCA)",
     "product_url": "/certification/opentelemetry-certified-associate-otca",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4kRaAa8",
@@ -110,7 +110,7 @@
   {
     "title": "Kyverno Certified Associate (KCA)",
     "product_url": "/certification/kyverno-certified-associate-kca",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3DGSBT6",
@@ -119,7 +119,7 @@
   {
     "title": "Linux Foundation Certified Sysadmin (LFCS)",
     "product_url": "/certification/linux-foundation-certified-sysadmin-lfcs",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3FEvqcE",
@@ -128,7 +128,7 @@
   {
     "title": "Certified Cloud Native Platform Engineering Associate (CNPA)",
     "product_url": "/certification/certified-cloud-native-platform-engineering-associate-cnpa",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/45PcpPN",
@@ -137,7 +137,7 @@
   {
     "title": "Kubestronaut Bundle",
     "product_url": "/certification/kubestronaut-bundle",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4kRb0xa",
@@ -146,7 +146,7 @@
   {
     "title": "CKS and KCSA Exam Bundle",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/3FsOhYh",
@@ -155,7 +155,7 @@
   {
     "title": "KCNA and KCSA Exam Bundle",
     "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4bP59V8",
@@ -164,7 +164,7 @@
   {
     "title": "CKA and CKAD Exam Bundle",
     "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
-    "code": "KUBEFLEX30",
+    "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
     "direct_link": "https://tidd.ly/424IQYb",
