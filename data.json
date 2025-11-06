@@ -216,15 +216,6 @@
     "type": "certification"
   },
   {
-    "title": "Golden Kubestronaut Bundle",
-    "product_url": "/collections/golden-kubestronaut",
-    "code": "GOLDEN30",
-    "discount_type": "percent",
-    "discount_value": 30,
-    "direct_link": "https://tidd.ly/4ijaE09",
-    "type": "certification"
-  },
-  {
     "title": "Kubestronaut to Golden Kubestronaut Upgrade Bundle",
     "product_url": "/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle",
     "code": "GOLDEN30",
@@ -324,6 +315,24 @@
     "type": "course"
   },
   {
+    "title": "Kubernetes Fundamentals (LFS258)",
+    "product_url": "/training/kubernetes-fundamentals",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3WDudI5",
+    "type": "course"
+  },
+  {
+    "title": "DevOps and SRE Fundamentals: Implementing Continuous Delivery (LFS261)",
+    "product_url": "/training/devops-and-sre-fundamentals-implementing-continuous-delivery-lfs261",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/43XSah5",
+    "type": "course"
+  },
+  {
     "title": "RISC-V Fundamentals (LFD210) + RISC-V Foundational Associate (RVFA) Exam Bundle",
     "product_url": "/certification/risc-v-fundamentals-lfd210-rvfa-exam-bundle",
     "code": "GOLDEN30",
@@ -333,6 +342,321 @@
     "type": "certification"
   },
   {
+    "title": "Kubernetes Security Essentials (LFS260)",
+    "product_url": "/training/kubernetes-security-essentials-lfs260",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4nNjK7X",
+    "type": "course"
+  },
+  {
+    "title": "GitOps: Continuous Delivery on Kubernetes with Flux (LFS269)",
+    "product_url": "/training/gitops-continuous-delivery-on-kubernetes-with-flux-lfs269",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4ouVRTQ",
+    "type": "course"
+  },
+  {
+    "title": "Implementing DevSecOps (LFS262)",
+    "product_url": "/training/implementing-devsecops-lfs262",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47NcFOV",
+    "type": "course"
+  },
+  {
+    "title": "Kubernetes and Cloud Native Essentials (LFS250)",
+    "product_url": "/training/kubernetes-and-cloud-native-essentials-lfs250",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oQq3bK",
+    "type": "course"
+  },
+  {
+    "title": "Introduction to Open Source Development, Git and Linux (LFD201)",
+    "product_url": "/training/introduction-to-open-source-development-git-and-linux",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oZtMnr",
+    "type": "course"
+  },
+  {
+    "title": "Fundamentals of Open Source IT and Cloud Computing (LFS200)",
+    "product_url": "/training/fundamentals-of-open-source-it-and-cloud-computing-lfs200",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hMokBP",
+    "type": "course"
+  },
+  {
+    "title": "Linux System Administration Essentials (LFS207)",
+    "product_url": "/training/linux-system-administration-essentials-lfs207",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3Jz6INo",
+    "type": "course"
+  },
+  {
+    "title": "Linux for Cloud Technicians Essentials (LFS203)",
+    "product_url": "/training/linux-for-cloud-technicians-essentials-lfs203",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hPWoNE",
+    "type": "course"
+  },
+  {
+    "title": "Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200)",
+    "product_url": "/training/mastering-infrastructure-security-strategies-tools-and-practices-skf200",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hPwslh",
+    "type": "course"
+  },
+  {
+    "title": "Threat Modeling: The Essentials Toolkit (SKF201)",
+    "product_url": "/training/threat-modeling-the-essentials-toolkit-skf201",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3JO7Exl",
+    "type": "course"
+  },
+  {
+    "title": "CI/CD with Jenkins X (LFS268)",
+    "product_url": "/training/ci-cd-with-jenkins-x-lfs268",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/43kf2r0",
+    "type": "course"
+  },
+  {
+    "title": "Node.js Application Development (LFW211)",
+    "product_url": "/training/nodejs-application-development-lfw211",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/43jeUYN",
+    "type": "course"
+  },
+  {
+    "title": "Cloud Native Logging with Fluentd and Fluent Bit (LFS242)",
+    "product_url": "/training/cloud-native-logging-with-fluentd-lfs242",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4nHFiCW",
+    "type": "course"
+  },
+  {
+    "title": "Containers Fundamentals (LFS253)",
+    "product_url": "/training/containers-fundamentals",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oKUTDf",
+    "type": "course"
+  },
+  {
+    "title": "Managing Kubernetes Applications with Helm (LFS244)",
+    "product_url": "/training/managing-kubernetes-applications-with-helm-lfs244",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3JJCebn",
+    "type": "course"
+  },
+  {
+    "title": "Monitoring Systems and Services with Prometheus (LFS241)",
+    "product_url": "/training/monitoring-systems-and-services-with-prometheus-lfs241",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4nGpoZk",
+    "type": "course"
+  },
+  {
+    "title": "Service Mesh Fundamentals (LFS243)",
+    "product_url": "/training/service-mesh-fundamentals-lfs243",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/43MXofy",
+    "type": "course"
+  },
+  {
+    "title": "Containers for Developers and Quality Assurance (LFD254)",
+    "product_url": "/training/containers-for-developers-and-quality-assurance",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3LrD6lB",
+    "type": "course"
+  },
+  {
+    "title": "Mastering Kubernetes Security with Kyverno (LFS255)",
+    "product_url": "/training/mastering-kubernetes-security-with-kyverno-lfs255",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4nLK2HM",
+    "type": "course"
+  },
+  {
+    "title": "Mastering Kubernetes Event-Driven Autoscaling with KEDA (LFS257)",
+    "product_url": "/training/mastering-kubernetes-event-driven-autoscaling-with-keda-lfs257",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/497vA9q",
+    "type": "course"
+  },
+  {
+    "title": "DevOps and Workflow Management with Argo (LFS256)",
+    "product_url": "/training/devops-and-workflow-management-with-argo-lfs256",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oUgd8L",
+    "type": "course"
+  },
+  {
+    "title": "Istio Service Mesh Essentials (LFS245)",
+    "product_url": "/training/istio-service-mesh-essentials-lfs245",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47IrO3E",
+    "type": "course"
+  },
+  {
+    "title": "Open Source Introduction (LFC202)",
+    "product_url": "/training/open-source-introduction-lfc202",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3X1HNFr",
+    "type": "course"
+  },
+  {
+    "title": "Open Source Business Strategy (LFC203)",
+    "product_url": "/training/open-source-business-strategy-lfc203",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4qMUWzG",
+    "type": "course"
+  },
+  {
+    "title": "Effective Open Source Program Management (LFC204)",
+    "product_url": "/training/effective-open-source-program-management-lfc204",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47yzh5i",
+    "type": "course"
+  },
+  {
+    "title": "Open Source Development Practices (LFC205)",
+    "product_url": "/training/open-source-development-practices-lfc205",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3JMyW7m",
+    "type": "course"
+  },
+  {
+    "title": "Open Source Compliance Programs (LFC206)",
+    "product_url": "/training/open-source-compliance-programs-lfc206",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3JonmiJ",
+    "type": "course"
+  },
+  {
+    "title": "Collaborating Effectively with Open Source Projects (LFC207)",
+    "product_url": "/training/collaborating-effectively-with-open-source-projects-lfc207",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oD5nUM",
+    "type": "course"
+  },
+  {
+    "title": "Creating Open Source Projects (LFC208)",
+    "product_url": "/training/creating-open-source-projects-lfc208",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4otSmwZ",
+    "type": "course"
+  },
+  {
+    "title": "Jenkins Essentials (LFS267)",
+    "product_url": "/training/jenkins-essentials-lfs267",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4qR6kuw",
+    "type": "course"
+  },
+  {
+    "title": "Node.js Services Development (LFW212)",
+    "product_url": "/training/node-js-services-development-lfw212",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4ovgHm6",
+    "type": "course"
+  },
+  {
+    "title": "Open Source Management & Strategy",
+    "product_url": "/training/open-source-management-and-strategy",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oVvV3q",
+    "type": "course"
+  },
+  {
+    "title": "RISC-V Fundamentals (LFD210)",
+    "product_url": "/training/riscv-fundamentals-lfd210",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47YJfON",
+    "type": "course"
+  },
+  {
+    "title": "PyTorch Essentials: An Applications-First Approach (LFD273)",
+    "product_url": "/training/pytorch-essentials-an-applications-first-approach-lfd273",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47FWwuq",
+    "type": "course"
+  },
+  {
+    "title": "Developing Solutions with FDC3 (LFD237)",
+    "product_url": "/training/developing-solutions-with-fdc3-lfd237",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hI7TGG",
+    "type": "course"
+  },
+  {
     "title": "RISC-V Foundational Associate (RVFA)",
     "product_url": "/certification/linux-foundation-risc-v-foundational-associate",
     "code": "GOLDEN30",
@@ -340,6 +664,42 @@
     "discount_value": 30,
     "direct_link": "https://tidd.ly/4hRsqsK",
     "type": "certification"
+  },
+  {
+    "title": "Serverless and Event-Driven Applications with Knative (LFS246)",
+    "product_url": "/training/serverless-and-event-driven-applications-with-knative-lfs246",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47HkhlX",
+    "type": "course"
+  },
+  {
+    "title": "Hyperledger Fabric: Design, Develop and Deploy (LFS270)",
+    "product_url": "/training/hyperledger-fabric-design-develop-and-deploy-lfs270",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4p1wVDn",
+    "type": "course"
+  },
+  {
+    "title": "Cloud Cost Monitoring for FinOps with OpenCost (LFS248)",
+    "product_url": "/training/cloud-cost-monitoring-for-finops-with-opencost-lfs248",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oXRlwZ",
+    "type": "course"
+  },
+  {
+    "title": "Open Source Essentials for Developers (LFD221)",
+    "product_url": "/training/open-source-essentials-for-developers-lfd221",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47JJmfQ",
+    "type": "course"
   },
   {
     "title": "FINOS Certified FDC3 Practitioner (FCFP)",
