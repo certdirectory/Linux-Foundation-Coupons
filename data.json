@@ -297,6 +297,15 @@
     "type": "certification"
   },
   {
+    "title": "Certified Open Source Developer for Enterprise (CODE)",
+    "product_url": "/certification/certified-open-source-developer-for-enterprise-code",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47sYa3O",
+    "type": "certification"
+  },
+  {
     "title": "Cloud Engineer IT Professional Program",
     "product_url": "/training/cloud-engineer-itprofessionalprogram",
     "code": "GOLDEN30",
@@ -313,5 +322,77 @@
     "discount_value": 30,
     "direct_link": "https://tidd.ly/43aHUC1",
     "type": "course"
+  },
+  {
+    "title": "RISC-V Fundamentals (LFD210) + RISC-V Foundational Associate (RVFA) Exam Bundle",
+    "product_url": "/certification/risc-v-fundamentals-lfd210-rvfa-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oQUf6t",
+    "type": "certification"
+  },
+  {
+    "title": "RISC-V Foundational Associate (RVFA)",
+    "product_url": "/certification/linux-foundation-risc-v-foundational-associate",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hRsqsK",
+    "type": "certification"
+  },
+  {
+    "title": "FINOS Certified FDC3 Practitioner (FCFP)",
+    "product_url": "/certification/finos-certified-fdc3-practitioner",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3JFllia",
+    "type": "certification"
+  },
+  {
+    "title": "Hyperledger Fabric: Design, Develop, and Deploy (LFS270) + Hyperledger Fabric Certified Practitioner (HFCP) Exam Bundle",
+    "product_url": "/certification/hyperledger-fabric-design-develop-and-deploy-lfs270-hyperledger-fabric-certified-practitionere-hfcp-exam-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4oU8Kqj",
+    "type": "certification"
+  },
+  {
+    "title": "Hyperledger Fabric Certified Practitioner (HFCP)",
+    "product_url": "/certification/hyperledger-fabric-certified-practitioner-hfcp",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/3JHzNWL",
+    "type": "certification"
+  },
+  {
+    "title": "Besu Certified Professional (BCP)",
+    "product_url": "/certification/besu-certified-professional",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4ozCqJK",
+    "type": "certification"
+  },
+  {
+    "title": "Open Source Essentials for Developers (LFD221) + Certified Open Source Developer for Enterprise (CODE) Exam Bundle",
+    "product_url": "/certification/code-associate",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/47JHV15",
+    "type": "certification"
+  },
+  {
+    "title": "FINOS Financial Services Certified Open Source Developer (FSOSD)",
+    "product_url": "/certification/finos-open-source-developer-fsosd",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4hMXEBc",
+    "type": "certification"
   }
 ]
