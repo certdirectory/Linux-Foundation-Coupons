@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kubestronaut Bundle",
+    "product_url": "/certification/kubestronaut-bundle",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4kRb0xa",
+    "type": "certification"
+  },
+  {
+    "title": "Golden Kubestronaut Bundle",
+    "product_url": "/collections/golden-kubestronaut",
+    "code": "GOLDEN30",
+    "discount_type": "percent",
+    "discount_value": 30,
+    "direct_link": "https://tidd.ly/4ijaE09",
+    "type": "certification"
+  },
+  {
     "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
     "code": "GOLDEN30",
@@ -135,12 +153,12 @@
     "type": "certification"
   },
   {
-    "title": "Kubestronaut Bundle",
-    "product_url": "/certification/kubestronaut-bundle",
+    "title": "Linux Foundation Certified IT Associate (LFCA)",
+    "product_url": "/certification/certified-it-associate",
     "code": "GOLDEN30",
     "discount_type": "percent",
     "discount_value": 30,
-    "direct_link": "https://tidd.ly/4kRb0xa",
+    "direct_link": "https://tidd.ly/47YNLge",
     "type": "certification"
   },
   {
