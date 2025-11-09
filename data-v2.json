@@ -56,24 +56,6 @@
         "provider": "Linux Foundation",
         "discount_code": "40KUBE25CD",
         "direct_link": "https://tidd.ly/3WDudI5"
-      },
-      {
-        "name": "Kubernetes the Hard Way",
-        "provider": "Kelsey Hightower",
-        "discount_code": "",
-        "direct_link": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
-      },
-      {
-        "name": "CKA Practice Exam",
-        "provider": "Killer.sh",
-        "discount_code": "",
-        "direct_link": "https://killer.sh/cka"
-      },
-      {
-        "name": "Kubernetes Documentation",
-        "provider": "Kubernetes",
-        "discount_code": "",
-        "direct_link": "https://kubernetes.io/docs/home/"
       }
     ]
   },
@@ -98,18 +80,6 @@
         "provider": "KodeKloud",
         "discount_code": "",
         "direct_link": "https://tidd.ly/4nReH6z"
-      },
-      {
-        "name": "CKAD Practice Exam",
-        "provider": "Killer.sh",
-        "discount_code": "",
-        "direct_link": "https://killer.sh/ckad"
-      },
-      {
-        "name": "Kubernetes Application Developer Concepts",
-        "provider": "Kubernetes",
-        "discount_code": "",
-        "direct_link": "https://kubernetes.io/docs/concepts/"
       }
     ]
   },
@@ -134,18 +104,6 @@
         "provider": "KodeKloud",
         "discount_code": "",
         "direct_link": "https://tidd.ly/43oCSSu"
-      },
-      {
-        "name": "CKS Practice Exam",
-        "provider": "Killer.sh",
-        "discount_code": "",
-        "direct_link": "https://killer.sh/cks"
-      },
-      {
-        "name": "Kubernetes Security Best Practices",
-        "provider": "Kubernetes",
-        "discount_code": "",
-        "direct_link": "https://kubernetes.io/docs/concepts/security/"
       }
     ]
   },
