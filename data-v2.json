@@ -94,6 +94,12 @@
     "description": "Validates expertise in securing container-based applications and Kubernetes platforms during build, deployment, and runtime.",
     "recommended_study_materials": [
       {
+        "name": "Certified Kubernetes Security Specialist (CKS) Handbook",
+        "provider": "Puru Tuladhar",
+        "discount_code": "CERTDIRECTORY30",
+        "direct_link": "https://gumroad.com/a/173495699/zeple"
+      },
+      {
         "name": "Kubernetes Security Essentials (LFS260)",
         "provider": "Linux Foundation",
         "discount_code": "40KUBE25CD",
