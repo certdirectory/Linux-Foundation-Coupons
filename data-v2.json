@@ -384,6 +384,18 @@
     ]
   },
   {
+    "title": "Certified Cloud Native Platform Engineer (CNPE)",
+    "product_url": "/certification/certified-cloud-native-platform-engineer-cnpe",
+    "code": "40KUBE25CD",
+    "discount_type": "percent",
+    "discount_value": 40,
+    "direct_link": "https://tidd.ly/3JHRXrC",
+    "type": "certification",
+    "description": "Validates the deep expertise in architecting, securing, and optimizing cloud native platforms to create scalable self-service infrastructure and step into senior platform engineer roles",
+    "recommended_study_materials": [
+    ]
+  },
+  {
     "title": "Linux Foundation Certified IT Associate (LFCA)",
     "product_url": "/certification/certified-it-associate",
     "code": "40KUBE25CD",
