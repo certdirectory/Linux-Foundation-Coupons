@@ -1,1136 +1,1195 @@
 [
-  {
-    "title": "Kubestronaut Bundle",
-    "product_url": "/certification/kubestronaut-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4kRb0xa",
-    "type": "certification",
-    "description": "Kubestronaut Bundle (KCNA + KCSA + CKA + CKAD + CKS)",
-    "recommended_study_materials": [
-      {
-        "name": "Kubestronaut Learning Path",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4nKu1la"
-      }
-    ]
-  },
-  {
-    "title": "Golden Kubestronaut Bundle",
-    "product_url": "/collections/golden-kubestronaut",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4ijaE09",
-    "type": "certification",
-    "description": "This offering includes CKA, CKAD, CKS, LFCS, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA certification exams",
-    "recommended_study_materials": [
-      {
-        "name": "Golden Kubestronaut Learning Path",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/43TGFqZ"
-      }
-    ]
-  },
-  {
-    "title": "Certified Kubernetes Administrator (CKA)",
-    "product_url": "/certification/certified-kubernetes-administrator-cka",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3DFkSJP",
-    "type": "certification",
-    "description": "Validates your skills in Kubernetes administration, including installation, configuration, networking, storage, and managing production-grade clusters.",
-    "recommended_study_materials": [
-      {
-        "name": "Certified Kubernetes Administrator (CKA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/43QNp94"
-      },
-      {
-        "name": "Kubernetes Fundamentals (LFS258)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/3WDudI5"
-      }
-    ]
-  },
-  {
-    "title": "Certified Kubernetes Application Developer (CKAD)",
-    "product_url": "/certification/certified-kubernetes-application-developer-ckad",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3DDuXXK",
-    "type": "certification",
-    "description": "Demonstrates your ability to design, build, configure, and expose cloud native applications for Kubernetes using best practices.",
-    "recommended_study_materials": [
-      {
-        "name": "Kubernetes for Developers (LFD259)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/43aHUC1"
-      },
-      {
-        "name": "Certified Kubernetes Application Developer (CKAD)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4nReH6z"
-      }
-    ]
-  },
-  {
-    "title": "Certified Kubernetes Security Specialist (CKS)",
-    "product_url": "/certification/certified-kubernetes-security-specialist",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4iuILmo",
-    "type": "certification",
-    "description": "Validates expertise in securing container-based applications and Kubernetes platforms during build, deployment, and runtime.",
-    "recommended_study_materials": [
-      {
-        "name": "Certified Kubernetes Security Specialist (CKS) Handbook",
-        "provider": "Puru Tuladhar",
-        "discount_code": "CERTDIRECTORY45",
-        "direct_link": "https://gumroad.com/a/173495699/zeple"
-      },
-      {
-        "name": "Kubernetes Security Essentials (LFS260)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/4nNjK7X"
-      },
-      {
-        "name": "Certified Kubernetes Security Specialist (CKS)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/43oCSSu"
-      }
-    ]
-  },
-  {
-    "title": "Kubernetes Cloud Native Associate (KCNA)",
-    "product_url": "/certification/kubernetes-cloud-native-associate",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3R6IcDd",
-    "type": "certification",
-    "description": "Entry-level certification demonstrating foundational knowledge of Kubernetes and cloud native technologies for professionals entering the ecosystem.",
-    "recommended_study_materials": [
-      {
-        "name": "Kubernetes and Cloud Native Essentials (LFS250)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/4oQq3bK"
-      },
-      {
-        "name": "Dive Into Kubernetes and Cloud Native Certified Associate (KCNA)",
-        "provider": "DiveInto",
-        "discount_code": "",
-        "direct_link": "https://diveinto.com/courses/dive-into-kubernetes-and-cloud-native-certified-associate-kcna"
-      },
-      {
-        "name": "Kubernetes and Cloud-Native Associate (KCNA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/494DZdE"
-      }
-    ]
-  },
-  {
-    "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
-    "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3R9ODWa",
-    "type": "certification",
-    "description": "Entry-level certification validating foundational knowledge of security concepts in Kubernetes and cloud native environments.",
-    "recommended_study_materials": [
-      {
-        "name": "Kubernetes and Cloud Native Security Associate (KCSA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/3WPyKXU"
-      }
-    ]
-  },
-  {
-    "title": "Prometheus Certified Associate (PCA)",
-    "product_url": "/certification/prometheus-certified-associate",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/426M1i0",
-    "type": "certification",
-    "description": "Validates knowledge of observability fundamentals and competency in using Prometheus for monitoring and alerting in cloud native environments.",
-    "recommended_study_materials": [
-      {
-        "name": "Prometheus Certified Associate (PCA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/499OJHN"
-      }
-    ]
-  },
-  {
-    "title": "Istio Certified Associate (ICA)",
-    "product_url": "/certification/istio-certified-associate-ica",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4isMzEG",
-    "type": "certification",
-    "description": "Demonstrates proficiency in using Istio service mesh for traffic management, security, observability, and policy enforcement in Kubernetes.",
-    "recommended_study_materials": [
-      {
-        "name": "Istio Service Mesh Essentials (LFS245)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/47IrO3E"
-      },
-      {
-        "name": "Istio Certified Associate (ICA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4nM9ixw"
-      }
-    ]
-  },
-  {
-    "title": "Certified Argo Project Associate (CAPA)",
-    "product_url": "/certification/certified-argo-project-associate-capa",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3R6IWrZ",
-    "type": "certification",
-    "description": "Validates knowledge of Argo projects including Argo CD, Argo Workflows, Argo Rollouts, and Argo Events for GitOps and workflow automation.",
-    "recommended_study_materials": [
-      {
-        "name": "DevOps and Workflow Management with Argo (LFS256)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/4oUgd8L"
-      },
-      {
-        "name": "Certified Argo Project Associate (CAPA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4oy8YDP"
-      }
-    ]
-  },
-  {
-    "title": "Certified GitOps Associate (CGOA)",
-    "product_url": "/certification/certified-gitops-associate-cgoa",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3DGixye",
-    "type": "certification",
-    "description": "Validates understanding of GitOps principles, practices, and tools for managing cloud native applications and infrastructure through Git workflows.",
-    "recommended_study_materials": [
-      {
-        "name": "GitOps: Continuous Delivery on Kubernetes with Flux (LFS269)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/4ouVRTQ"
-      },
-      {
-        "name": "Certified Argo Project Associate (CAPA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4pkWpfd"
-      }
-    ]
-  },
-  {
-    "title": "Cilium Certified Associate (CCA)",
-    "product_url": "/certification/cilium-certified-associate-cca",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/422X77M",
-    "type": "certification",
-    "description": "Demonstrates expertise in Cilium for cloud native networking, security, and observability using eBPF technology in Kubernetes environments.",
-    "recommended_study_materials": [
-      {
-        "name": "Cilium Certified Associate (CCA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/484yxX9"
-      }
-    ]
-  },
-  {
-    "title": "Certified Backstage Associate (CBA)",
-    "product_url": "/certification/certified-backstage-associate-cba",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4iu6NxX",
-    "type": "certification",
-    "description": "Validates knowledge of Backstage, the open platform for building developer portals, including setup, configuration, and plugin development.",
-    "recommended_study_materials": [
-      {
-        "name": "Certified Backstage Associate (CBA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4oto2lT"
-      }
-    ]
-  },
-  {
-    "title": "OpenTelemetry Certified Associate (OTCA)",
-    "product_url": "/certification/opentelemetry-certified-associate-otca",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4kRaAa8",
-    "type": "certification",
-    "description": "Validates proficiency in OpenTelemetry for distributed tracing, metrics, and logs collection in cloud native observability.",
-    "recommended_study_materials": [
-      {
-        "name": "OpenTelemetry Certified Associate",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4hQ4u95"
-      },
-      {
-        "name": "OpenTelemetry Documentation",
-        "provider": "OpenTelemetry",
-        "discount_code": "",
-        "direct_link": "https://opentelemetry.io/docs/"
-      }
-    ]
-  },
-  {
-    "title": "Kyverno Certified Associate (KCA)",
-    "product_url": "/certification/kyverno-certified-associate-kca",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3DGSBT6",
-    "type": "certification",
-    "description": "Demonstrates proficiency in using Kyverno for Kubernetes policy management, validation, mutation, and generation of resources.",
-    "recommended_study_materials": [
-      {
-        "name": "Mastering Kubernetes Security with Kyverno (LFS255)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/4nLK2HM"
-      },
-      {
-        "name": "Kyverno Certified Associatee",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4i0yX4f"
-      },
-      {
-        "name": "Kyverno Documentation",
-        "provider": "Kyverno",
-        "discount_code": "",
-        "direct_link": "https://kyverno.io/docs/"
-      }
-    ]
-  },
-  {
-    "title": "Linux Foundation Certified Sysadmin (LFCS)",
-    "product_url": "/certification/linux-foundation-certified-sysadmin-lfcs",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3FEvqcE",
-    "type": "certification",
-    "description": "Validates essential to intermediate Linux system administration skills including installation, maintenance, networking, and troubleshooting.",
-    "recommended_study_materials": [
-      {
-        "name": "Linux System Administration Essentials (LFS207)",
-        "provider": "Linux Foundation",
-        "discount_code": "40KUBE25CD",
-        "direct_link": "https://tidd.ly/3Jz6INo"
-      },
-      {
-        "name": "Linux Foundation Certified System Administrator (LFCS)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4hMXd9U"
-      }
-    ]
-  },
-  {
-    "title": "Certified Cloud Native Platform Engineering Associate (CNPA)",
-    "product_url": "/certification/certified-cloud-native-platform-engineering-associate-cnpa",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/45PcpPN",
-    "type": "certification",
-    "description": "Validates foundational knowledge of platform engineering principles, tools, and practices for building and managing cloud native platforms.",
-    "recommended_study_materials": [
-      {
-        "name": "Prep Course - Certified Cloud Native Platform Engineering Associate (CNPA)",
-        "provider": "KodeKloud",
-        "discount_code": "",
-        "direct_link": "https://tidd.ly/4o5i4Hf"
-      }
-    ]
-  },
-  {
-    "title": "Certified Cloud Native Platform Engineer (CNPE)",
-    "product_url": "/certification/certified-cloud-native-platform-engineer-cnpe",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JHRXrC",
-    "type": "certification",
-    "description": "Validates the deep expertise in architecting, securing, and optimizing cloud native platforms to create scalable self-service infrastructure and step into senior platform engineer roles",
-    "recommended_study_materials": [
-    ]
-  },
-  {
-    "title": "Linux Foundation Certified IT Associate (LFCA)",
-    "product_url": "/certification/certified-it-associate",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47YNLge",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKS and KCSA Exam Bundle",
-    "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3FsOhYh",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "KCNA and KCSA Exam Bundle",
-    "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4bP59V8",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKA and CKAD Exam Bundle",
-    "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/424IQYb",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKA and CKS Exam Bundle",
-    "product_url": "/collections/cks-and-cka-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hwPQla",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKA and KCNA Exam Bundle",
-    "product_url": "/training/kcna-cka-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3DHQKgO",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKA, CKAD and CKS Exam Bundle",
-    "product_url": "/certification/cka-ckad-cks-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4j5MZR3",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Kubestronaut to Golden Kubestronaut Upgrade Bundle",
-    "product_url": "/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4iXvJhJ",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKA to Kubestronaut Upgrade Bundle",
-    "product_url": "/collections/cka-upgrade-to-kubestronaut-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4deE9Pz",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CKAD to Kubestronaut Upgrade Bundle",
-    "product_url": "/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4j5O8bp",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Istio Service Mesh Essentials and ICA Exam Bundle",
-    "product_url": "/certification/istio-service-mesh-essentials-lfs245istio-certified-associate-ica-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3XMREiY",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CAPA and DevOps and Workflow Management with Argo (LFS256) Exam Bundle",
-    "product_url": "/certification/lfs256-capa",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3FtPsGU",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "KCNA and LFCA Exam Bundle",
-    "product_url": "/certification/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3XPeHJY",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "LFCA and LFS200 Exam Bundle",
-    "product_url": "/certification/fundamentals-of-open-source-it-and-cloud-computing-lfs200-linux-foundation-certified-it-associate-lfca-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3Dvg3Tr",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "PCA and LFS241 Exam Bundle",
-    "product_url": "/certification/lfs241-pca",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3FTxKNq",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Certified Open Source Developer for Enterprise (CODE)",
-    "product_url": "/certification/certified-open-source-developer-for-enterprise-code",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47sYa3O",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Cloud Engineer IT Professional Program",
-    "product_url": "/training/cloud-engineer-itprofessionalprogram",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4qvPX6e",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Kubernetes for Developers",
-    "product_url": "/training/kubernetes-for-developers",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/43aHUC1",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Kubernetes Fundamentals (LFS258)",
-    "product_url": "/training/kubernetes-fundamentals",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3WDudI5",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "DevOps and SRE Fundamentals: Implementing Continuous Delivery (LFS261)",
-    "product_url": "/training/devops-and-sre-fundamentals-implementing-continuous-delivery-lfs261",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/43XSah5",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "RISC-V Fundamentals (LFD210) + RISC-V Foundational Associate (RVFA) Exam Bundle",
-    "product_url": "/certification/risc-v-fundamentals-lfd210-rvfa-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oQUf6t",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Kubernetes Security Essentials (LFS260)",
-    "product_url": "/training/kubernetes-security-essentials-lfs260",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4nNjK7X",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "GitOps: Continuous Delivery on Kubernetes with Flux (LFS269)",
-    "product_url": "/training/gitops-continuous-delivery-on-kubernetes-with-flux-lfs269",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4ouVRTQ",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Implementing DevSecOps (LFS262)",
-    "product_url": "/training/implementing-devsecops-lfs262",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47NcFOV",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Kubernetes and Cloud Native Essentials (LFS250)",
-    "product_url": "/training/kubernetes-and-cloud-native-essentials-lfs250",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oQq3bK",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Introduction to Open Source Development, Git and Linux (LFD201)",
-    "product_url": "/training/introduction-to-open-source-development-git-and-linux",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oZtMnr",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Fundamentals of Open Source IT and Cloud Computing (LFS200)",
-    "product_url": "/training/fundamentals-of-open-source-it-and-cloud-computing-lfs200",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hMokBP",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Linux System Administration Essentials (LFS207)",
-    "product_url": "/training/linux-system-administration-essentials-lfs207",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3Jz6INo",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Linux for Cloud Technicians Essentials (LFS203)",
-    "product_url": "/training/linux-for-cloud-technicians-essentials-lfs203",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hPWoNE",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200)",
-    "product_url": "/training/mastering-infrastructure-security-strategies-tools-and-practices-skf200",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hPwslh",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Threat Modeling: The Essentials Toolkit (SKF201)",
-    "product_url": "/training/threat-modeling-the-essentials-toolkit-skf201",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JO7Exl",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "CI/CD with Jenkins X (LFS268)",
-    "product_url": "/training/ci-cd-with-jenkins-x-lfs268",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/43kf2r0",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Node.js Application Development (LFW211)",
-    "product_url": "/training/nodejs-application-development-lfw211",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/43jeUYN",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Cloud Native Logging with Fluentd and Fluent Bit (LFS242)",
-    "product_url": "/training/cloud-native-logging-with-fluentd-lfs242",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4nHFiCW",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Containers Fundamentals (LFS253)",
-    "product_url": "/training/containers-fundamentals",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oKUTDf",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Managing Kubernetes Applications with Helm (LFS244)",
-    "product_url": "/training/managing-kubernetes-applications-with-helm-lfs244",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JJCebn",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Monitoring Systems and Services with Prometheus (LFS241)",
-    "product_url": "/training/monitoring-systems-and-services-with-prometheus-lfs241",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4nGpoZk",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Service Mesh Fundamentals (LFS243)",
-    "product_url": "/training/service-mesh-fundamentals-lfs243",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/43MXofy",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Containers for Developers and Quality Assurance (LFD254)",
-    "product_url": "/training/containers-for-developers-and-quality-assurance",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3LrD6lB",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Mastering Kubernetes Security with Kyverno (LFS255)",
-    "product_url": "/training/mastering-kubernetes-security-with-kyverno-lfs255",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4nLK2HM",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Mastering Kubernetes Event-Driven Autoscaling with KEDA (LFS257)",
-    "product_url": "/training/mastering-kubernetes-event-driven-autoscaling-with-keda-lfs257",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/497vA9q",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "DevOps and Workflow Management with Argo (LFS256)",
-    "product_url": "/training/devops-and-workflow-management-with-argo-lfs256",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oUgd8L",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Istio Service Mesh Essentials (LFS245)",
-    "product_url": "/training/istio-service-mesh-essentials-lfs245",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47IrO3E",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Introduction (LFC202)",
-    "product_url": "/training/open-source-introduction-lfc202",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3X1HNFr",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Business Strategy (LFC203)",
-    "product_url": "/training/open-source-business-strategy-lfc203",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4qMUWzG",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Effective Open Source Program Management (LFC204)",
-    "product_url": "/training/effective-open-source-program-management-lfc204",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47yzh5i",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Development Practices (LFC205)",
-    "product_url": "/training/open-source-development-practices-lfc205",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JMyW7m",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Compliance Programs (LFC206)",
-    "product_url": "/training/open-source-compliance-programs-lfc206",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JonmiJ",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Collaborating Effectively with Open Source Projects (LFC207)",
-    "product_url": "/training/collaborating-effectively-with-open-source-projects-lfc207",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oD5nUM",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Creating Open Source Projects (LFC208)",
-    "product_url": "/training/creating-open-source-projects-lfc208",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4otSmwZ",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Jenkins Essentials (LFS267)",
-    "product_url": "/training/jenkins-essentials-lfs267",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4qR6kuw",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Node.js Services Development (LFW212)",
-    "product_url": "/training/node-js-services-development-lfw212",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4ovgHm6",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Management & Strategy",
-    "product_url": "/training/open-source-management-and-strategy",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oVvV3q",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "RISC-V Fundamentals (LFD210)",
-    "product_url": "/training/riscv-fundamentals-lfd210",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47YJfON",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "PyTorch Essentials: An Applications-First Approach (LFD273)",
-    "product_url": "/training/pytorch-essentials-an-applications-first-approach-lfd273",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47FWwuq",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Developing Solutions with FDC3 (LFD237)",
-    "product_url": "/training/developing-solutions-with-fdc3-lfd237",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hI7TGG",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "RISC-V Foundational Associate (RVFA)",
-    "product_url": "/certification/linux-foundation-risc-v-foundational-associate",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hRsqsK",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Serverless and Event-Driven Applications with Knative (LFS246)",
-    "product_url": "/training/serverless-and-event-driven-applications-with-knative-lfs246",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47HkhlX",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Hyperledger Fabric: Design, Develop and Deploy (LFS270)",
-    "product_url": "/training/hyperledger-fabric-design-develop-and-deploy-lfs270",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4p1wVDn",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Cloud Cost Monitoring for FinOps with OpenCost (LFS248)",
-    "product_url": "/training/cloud-cost-monitoring-for-finops-with-opencost-lfs248",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oXRlwZ",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Essentials for Developers (LFD221)",
-    "product_url": "/training/open-source-essentials-for-developers-lfd221",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47JJmfQ",
-    "type": "course",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "FINOS Certified FDC3 Practitioner (FCFP)",
-    "product_url": "/certification/finos-certified-fdc3-practitioner",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JFllia",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Hyperledger Fabric: Design, Develop, and Deploy (LFS270) + Hyperledger Fabric Certified Practitioner (HFCP) Exam Bundle",
-    "product_url": "/certification/hyperledger-fabric-design-develop-and-deploy-lfs270-hyperledger-fabric-certified-practitionere-hfcp-exam-bundle",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4oU8Kqj",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Hyperledger Fabric Certified Practitioner (HFCP)",
-    "product_url": "/certification/hyperledger-fabric-certified-practitioner-hfcp",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/3JHzNWL",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Besu Certified Professional (BCP)",
-    "product_url": "/certification/besu-certified-professional",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4ozCqJK",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "Open Source Essentials for Developers (LFD221) + Certified Open Source Developer for Enterprise (CODE) Exam Bundle",
-    "product_url": "/certification/code-associate",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/47JHV15",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  },
-  {
-    "title": "FINOS Financial Services Certified Open Source Developer (FSOSD)",
-    "product_url": "/certification/finos-open-source-developer-fsosd",
-    "code": "40KUBE25CD",
-    "discount_type": "percent",
-    "discount_value": 40,
-    "direct_link": "https://tidd.ly/4hMXEBc",
-    "type": "certification",
-    "description": "",
-    "recommended_study_materials": []
-  }
-]
-
+    {
+      "title": "Kubestronaut Bundle",
+      "product_url": "/certification/kubestronaut-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4kRb0xa",
+      "type": "certification",
+      "description": "Kubestronaut Bundle (KCNA + KCSA + CKA + CKAD + CKS)",
+      "recommended_study_materials": [
+        {
+          "name": "Kubestronaut Learning Path",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4nKu1la"
+        }
+      ]
+    },
+    {
+      "title": "Golden Kubestronaut Bundle",
+      "product_url": "/collections/golden-kubestronaut",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4ijaE09",
+      "type": "certification",
+      "description": "This offering includes CKA, CKAD, CKS, LFCS, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA certification exams",
+      "recommended_study_materials": [
+        {
+          "name": "Golden Kubestronaut Learning Path",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/43TGFqZ"
+        }
+      ]
+    },
+    {
+      "title": "Certified Kubernetes Administrator (CKA)",
+      "product_url": "/certification/certified-kubernetes-administrator-cka",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3DFkSJP",
+      "type": "certification",
+      "description": "Validates your skills in Kubernetes administration, including installation, configuration, networking, storage, and managing production-grade clusters.",
+      "recommended_study_materials": [
+        {
+          "name": "Certified Kubernetes Administrator (CKA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/43QNp94"
+        },
+        {
+          "name": "Kubernetes Fundamentals (LFS258)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/3WDudI5"
+        },
+        {
+          "name": "Killercoda CKA",
+          "provider": "Killercoda",
+          "discount_code": "",
+          "direct_link": "https://killercoda.com/cka"
+        },
+        {
+          "name": "Killer Shell CKA Exam Simulator",
+          "provider": "Killer Shell",
+          "discount_code": "",
+          "direct_link": "https://killer.sh/cka"
+        }
+      ]
+    },
+    {
+      "title": "Certified Kubernetes Application Developer (CKAD)",
+      "product_url": "/certification/certified-kubernetes-application-developer-ckad",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3DDuXXK",
+      "type": "certification",
+      "description": "Demonstrates your ability to design, build, configure, and expose cloud native applications for Kubernetes using best practices.",
+      "recommended_study_materials": [
+        {
+          "name": "Kubernetes for Developers (LFD259)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/43aHUC1"
+        },
+        {
+          "name": "Certified Kubernetes Application Developer (CKAD)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4nReH6z"
+        },
+        {
+          "name": "Killercoda CKAD",
+          "provider": "Killercoda",
+          "discount_code": "",
+          "direct_link": "https://killercoda.com/ckad"
+        },
+        {
+          "name": "Killer Shell CKAD Exam Simulator",
+          "provider": "Killer Shell",
+          "discount_code": "",
+          "direct_link": "https://killer.sh/ckad"
+        }
+      ]
+    },
+    {
+      "title": "Certified Kubernetes Security Specialist (CKS)",
+      "product_url": "/certification/certified-kubernetes-security-specialist",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4iuILmo",
+      "type": "certification",
+      "description": "Validates expertise in securing container-based applications and Kubernetes platforms during build, deployment, and runtime.",
+      "recommended_study_materials": [
+        {
+          "name": "Certified Kubernetes Security Specialist (CKS) Handbook",
+          "provider": "Puru Tuladhar",
+          "discount_code": "CERTDIRECTORY45",
+          "direct_link": "https://gumroad.com/a/173495699/zeple"
+        },
+        {
+          "name": "Kubernetes Security Essentials (LFS260)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/4nNjK7X"
+        },
+        {
+          "name": "Certified Kubernetes Security Specialist (CKS)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/43oCSSu"
+        },
+        {
+          "name": "Killercoda CKS",
+          "provider": "Killercoda",
+          "discount_code": "",
+          "direct_link": "https://killercoda.com/killer-shell-cks"
+        },
+        {
+          "name": "Killer Shell CKS Exam Simulator",
+          "provider": "Killer Shell",
+          "discount_code": "",
+          "direct_link": "https://killer.sh/cks"
+        }
+      ]
+    },
+    {
+      "title": "Kubernetes Cloud Native Associate (KCNA)",
+      "product_url": "/certification/kubernetes-cloud-native-associate",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3R6IcDd",
+      "type": "certification",
+      "description": "Entry-level certification demonstrating foundational knowledge of Kubernetes and cloud native technologies for professionals entering the ecosystem.",
+      "recommended_study_materials": [
+        {
+          "name": "Kubernetes and Cloud Native Essentials (LFS250)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/4oQq3bK"
+        },
+        {
+          "name": "Dive Into Kubernetes and Cloud Native Certified Associate (KCNA)",
+          "provider": "DiveInto",
+          "discount_code": "",
+          "direct_link": "https://diveinto.com/courses/dive-into-kubernetes-and-cloud-native-certified-associate-kcna"
+        },
+        {
+          "name": "Kubernetes and Cloud-Native Associate (KCNA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/494DZdE"
+        }
+      ]
+    },
+    {
+      "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
+      "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3R9ODWa",
+      "type": "certification",
+      "description": "Entry-level certification validating foundational knowledge of security concepts in Kubernetes and cloud native environments.",
+      "recommended_study_materials": [
+        {
+          "name": "Kubernetes and Cloud Native Security Associate (KCSA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/3WPyKXU"
+        }
+      ]
+    },
+    {
+      "title": "Prometheus Certified Associate (PCA)",
+      "product_url": "/certification/prometheus-certified-associate",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/426M1i0",
+      "type": "certification",
+      "description": "Validates knowledge of observability fundamentals and competency in using Prometheus for monitoring and alerting in cloud native environments.",
+      "recommended_study_materials": [
+        {
+          "name": "Prometheus Certified Associate (PCA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/499OJHN"
+        }
+      ]
+    },
+    {
+      "title": "Istio Certified Associate (ICA)",
+      "product_url": "/certification/istio-certified-associate-ica",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4isMzEG",
+      "type": "certification",
+      "description": "Demonstrates proficiency in using Istio service mesh for traffic management, security, observability, and policy enforcement in Kubernetes.",
+      "recommended_study_materials": [
+        {
+          "name": "Istio Service Mesh Essentials (LFS245)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/47IrO3E"
+        },
+        {
+          "name": "Istio Certified Associate (ICA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4nM9ixw"
+        },
+        {
+          "name": "Killercoda ICA",
+          "provider": "Killercoda",
+          "discount_code": "",
+          "direct_link": "https://killercoda.com/ica"
+        }
+      ]
+    },
+    {
+      "title": "Certified Argo Project Associate (CAPA)",
+      "product_url": "/certification/certified-argo-project-associate-capa",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3R6IWrZ",
+      "type": "certification",
+      "description": "Validates knowledge of Argo projects including Argo CD, Argo Workflows, Argo Rollouts, and Argo Events for GitOps and workflow automation.",
+      "recommended_study_materials": [
+        {
+          "name": "DevOps and Workflow Management with Argo (LFS256)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/4oUgd8L"
+        },
+        {
+          "name": "Certified Argo Project Associate (CAPA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4oy8YDP"
+        },
+        {
+          "name": "Killercoda Argo",
+          "provider": "Killercoda",
+          "discount_code": "",
+          "direct_link": "https://killercoda.com/argo"
+        }
+      ]
+    },
+    {
+      "title": "Certified GitOps Associate (CGOA)",
+      "product_url": "/certification/certified-gitops-associate-cgoa",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3DGixye",
+      "type": "certification",
+      "description": "Validates understanding of GitOps principles, practices, and tools for managing cloud native applications and infrastructure through Git workflows.",
+      "recommended_study_materials": [
+        {
+          "name": "GitOps: Continuous Delivery on Kubernetes with Flux (LFS269)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/4ouVRTQ"
+        },
+        {
+          "name": "Certified Argo Project Associate (CAPA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4pkWpfd"
+        }
+      ]
+    },
+    {
+      "title": "Cilium Certified Associate (CCA)",
+      "product_url": "/certification/cilium-certified-associate-cca",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/422X77M",
+      "type": "certification",
+      "description": "Demonstrates expertise in Cilium for cloud native networking, security, and observability using eBPF technology in Kubernetes environments.",
+      "recommended_study_materials": [
+        {
+          "name": "Cilium Certified Associate (CCA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/484yxX9"
+        }
+      ]
+    },
+    {
+      "title": "Certified Backstage Associate (CBA)",
+      "product_url": "/certification/certified-backstage-associate-cba",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4iu6NxX",
+      "type": "certification",
+      "description": "Validates knowledge of Backstage, the open platform for building developer portals, including setup, configuration, and plugin development.",
+      "recommended_study_materials": [
+        {
+          "name": "Certified Backstage Associate (CBA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4oto2lT"
+        }
+      ]
+    },
+    {
+      "title": "OpenTelemetry Certified Associate (OTCA)",
+      "product_url": "/certification/opentelemetry-certified-associate-otca",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4kRaAa8",
+      "type": "certification",
+      "description": "Validates proficiency in OpenTelemetry for distributed tracing, metrics, and logs collection in cloud native observability.",
+      "recommended_study_materials": [
+        {
+          "name": "OpenTelemetry Certified Associate",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4hQ4u95"
+        },
+        {
+          "name": "OpenTelemetry Documentation",
+          "provider": "OpenTelemetry",
+          "discount_code": "",
+          "direct_link": "https://opentelemetry.io/docs/"
+        }
+      ]
+    },
+    {
+      "title": "Kyverno Certified Associate (KCA)",
+      "product_url": "/certification/kyverno-certified-associate-kca",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3DGSBT6",
+      "type": "certification",
+      "description": "Demonstrates proficiency in using Kyverno for Kubernetes policy management, validation, mutation, and generation of resources.",
+      "recommended_study_materials": [
+        {
+          "name": "Mastering Kubernetes Security with Kyverno (LFS255)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/4nLK2HM"
+        },
+        {
+          "name": "Kyverno Certified Associatee",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4i0yX4f"
+        },
+        {
+          "name": "Kyverno Documentation",
+          "provider": "Kyverno",
+          "discount_code": "",
+          "direct_link": "https://kyverno.io/docs/"
+        }
+      ]
+    },
+    {
+      "title": "Linux Foundation Certified Sysadmin (LFCS)",
+      "product_url": "/certification/linux-foundation-certified-sysadmin-lfcs",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3FEvqcE",
+      "type": "certification",
+      "description": "Validates essential to intermediate Linux system administration skills including installation, maintenance, networking, and troubleshooting.",
+      "recommended_study_materials": [
+        {
+          "name": "Linux System Administration Essentials (LFS207)",
+          "provider": "Linux Foundation",
+          "discount_code": "40KUBE25CD",
+          "direct_link": "https://tidd.ly/3Jz6INo"
+        },
+        {
+          "name": "Linux Foundation Certified System Administrator (LFCS)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4hMXd9U"
+        },
+        {
+          "name": "Killercoda LFCS",
+          "provider": "Killercoda",
+          "discount_code": "",
+          "direct_link": "https://killercoda.com/lfcs"
+        },
+        {
+          "name": "Killer Shell LFCS Exam Simulator",
+          "provider": "Killer Shell",
+          "discount_code": "",
+          "direct_link": "https://killer.sh/lfcs"
+        }
+      ]
+    },
+    {
+      "title": "Certified Cloud Native Platform Engineering Associate (CNPA)",
+      "product_url": "/certification/certified-cloud-native-platform-engineering-associate-cnpa",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/45PcpPN",
+      "type": "certification",
+      "description": "Validates foundational knowledge of platform engineering principles, tools, and practices for building and managing cloud native platforms.",
+      "recommended_study_materials": [
+        {
+          "name": "Prep Course - Certified Cloud Native Platform Engineering Associate (CNPA)",
+          "provider": "KodeKloud",
+          "discount_code": "",
+          "direct_link": "https://tidd.ly/4o5i4Hf"
+        }
+      ]
+    },
+    {
+      "title": "Certified Cloud Native Platform Engineer (CNPE)",
+      "product_url": "/certification/certified-cloud-native-platform-engineer-cnpe",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JHRXrC",
+      "type": "certification",
+      "description": "Validates the deep expertise in architecting, securing, and optimizing cloud native platforms to create scalable self-service infrastructure and step into senior platform engineer roles",
+      "recommended_study_materials": [
+      ]
+    },
+    {
+      "title": "Linux Foundation Certified IT Associate (LFCA)",
+      "product_url": "/certification/certified-it-associate",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47YNLge",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKS and KCSA Exam Bundle",
+      "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3FsOhYh",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "KCNA and KCSA Exam Bundle",
+      "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4bP59V8",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKA and CKAD Exam Bundle",
+      "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/424IQYb",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKA and CKS Exam Bundle",
+      "product_url": "/collections/cks-and-cka-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hwPQla",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKA and KCNA Exam Bundle",
+      "product_url": "/training/kcna-cka-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3DHQKgO",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKA, CKAD and CKS Exam Bundle",
+      "product_url": "/certification/cka-ckad-cks-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4j5MZR3",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Kubestronaut to Golden Kubestronaut Upgrade Bundle",
+      "product_url": "/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4iXvJhJ",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKA to Kubestronaut Upgrade Bundle",
+      "product_url": "/collections/cka-upgrade-to-kubestronaut-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4deE9Pz",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CKAD to Kubestronaut Upgrade Bundle",
+      "product_url": "/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4j5O8bp",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Istio Service Mesh Essentials and ICA Exam Bundle",
+      "product_url": "/certification/istio-service-mesh-essentials-lfs245istio-certified-associate-ica-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3XMREiY",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CAPA and DevOps and Workflow Management with Argo (LFS256) Exam Bundle",
+      "product_url": "/certification/lfs256-capa",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3FtPsGU",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "KCNA and LFCA Exam Bundle",
+      "product_url": "/certification/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3XPeHJY",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "LFCA and LFS200 Exam Bundle",
+      "product_url": "/certification/fundamentals-of-open-source-it-and-cloud-computing-lfs200-linux-foundation-certified-it-associate-lfca-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3Dvg3Tr",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "PCA and LFS241 Exam Bundle",
+      "product_url": "/certification/lfs241-pca",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3FTxKNq",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Certified Open Source Developer for Enterprise (CODE)",
+      "product_url": "/certification/certified-open-source-developer-for-enterprise-code",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47sYa3O",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Cloud Engineer IT Professional Program",
+      "product_url": "/training/cloud-engineer-itprofessionalprogram",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4qvPX6e",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Kubernetes for Developers",
+      "product_url": "/training/kubernetes-for-developers",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/43aHUC1",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Kubernetes Fundamentals (LFS258)",
+      "product_url": "/training/kubernetes-fundamentals",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3WDudI5",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "DevOps and SRE Fundamentals: Implementing Continuous Delivery (LFS261)",
+      "product_url": "/training/devops-and-sre-fundamentals-implementing-continuous-delivery-lfs261",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/43XSah5",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "RISC-V Fundamentals (LFD210) + RISC-V Foundational Associate (RVFA) Exam Bundle",
+      "product_url": "/certification/risc-v-fundamentals-lfd210-rvfa-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oQUf6t",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Kubernetes Security Essentials (LFS260)",
+      "product_url": "/training/kubernetes-security-essentials-lfs260",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4nNjK7X",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "GitOps: Continuous Delivery on Kubernetes with Flux (LFS269)",
+      "product_url": "/training/gitops-continuous-delivery-on-kubernetes-with-flux-lfs269",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4ouVRTQ",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Implementing DevSecOps (LFS262)",
+      "product_url": "/training/implementing-devsecops-lfs262",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47NcFOV",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Kubernetes and Cloud Native Essentials (LFS250)",
+      "product_url": "/training/kubernetes-and-cloud-native-essentials-lfs250",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oQq3bK",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Introduction to Open Source Development, Git and Linux (LFD201)",
+      "product_url": "/training/introduction-to-open-source-development-git-and-linux",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oZtMnr",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Fundamentals of Open Source IT and Cloud Computing (LFS200)",
+      "product_url": "/training/fundamentals-of-open-source-it-and-cloud-computing-lfs200",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hMokBP",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Linux System Administration Essentials (LFS207)",
+      "product_url": "/training/linux-system-administration-essentials-lfs207",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3Jz6INo",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Linux for Cloud Technicians Essentials (LFS203)",
+      "product_url": "/training/linux-for-cloud-technicians-essentials-lfs203",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hPWoNE",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200)",
+      "product_url": "/training/mastering-infrastructure-security-strategies-tools-and-practices-skf200",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hPwslh",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Threat Modeling: The Essentials Toolkit (SKF201)",
+      "product_url": "/training/threat-modeling-the-essentials-toolkit-skf201",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JO7Exl",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "CI/CD with Jenkins X (LFS268)",
+      "product_url": "/training/ci-cd-with-jenkins-x-lfs268",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/43kf2r0",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Node.js Application Development (LFW211)",
+      "product_url": "/training/nodejs-application-development-lfw211",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/43jeUYN",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Cloud Native Logging with Fluentd and Fluent Bit (LFS242)",
+      "product_url": "/training/cloud-native-logging-with-fluentd-lfs242",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4nHFiCW",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Containers Fundamentals (LFS253)",
+      "product_url": "/training/containers-fundamentals",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oKUTDf",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Managing Kubernetes Applications with Helm (LFS244)",
+      "product_url": "/training/managing-kubernetes-applications-with-helm-lfs244",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JJCebn",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Monitoring Systems and Services with Prometheus (LFS241)",
+      "product_url": "/training/monitoring-systems-and-services-with-prometheus-lfs241",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4nGpoZk",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Service Mesh Fundamentals (LFS243)",
+      "product_url": "/training/service-mesh-fundamentals-lfs243",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/43MXofy",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Containers for Developers and Quality Assurance (LFD254)",
+      "product_url": "/training/containers-for-developers-and-quality-assurance",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3LrD6lB",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Mastering Kubernetes Security with Kyverno (LFS255)",
+      "product_url": "/training/mastering-kubernetes-security-with-kyverno-lfs255",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4nLK2HM",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Mastering Kubernetes Event-Driven Autoscaling with KEDA (LFS257)",
+      "product_url": "/training/mastering-kubernetes-event-driven-autoscaling-with-keda-lfs257",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/497vA9q",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "DevOps and Workflow Management with Argo (LFS256)",
+      "product_url": "/training/devops-and-workflow-management-with-argo-lfs256",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oUgd8L",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Istio Service Mesh Essentials (LFS245)",
+      "product_url": "/training/istio-service-mesh-essentials-lfs245",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47IrO3E",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Introduction (LFC202)",
+      "product_url": "/training/open-source-introduction-lfc202",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3X1HNFr",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Business Strategy (LFC203)",
+      "product_url": "/training/open-source-business-strategy-lfc203",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4qMUWzG",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Effective Open Source Program Management (LFC204)",
+      "product_url": "/training/effective-open-source-program-management-lfc204",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47yzh5i",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Development Practices (LFC205)",
+      "product_url": "/training/open-source-development-practices-lfc205",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JMyW7m",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Compliance Programs (LFC206)",
+      "product_url": "/training/open-source-compliance-programs-lfc206",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JonmiJ",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Collaborating Effectively with Open Source Projects (LFC207)",
+      "product_url": "/training/collaborating-effectively-with-open-source-projects-lfc207",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oD5nUM",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Creating Open Source Projects (LFC208)",
+      "product_url": "/training/creating-open-source-projects-lfc208",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4otSmwZ",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Jenkins Essentials (LFS267)",
+      "product_url": "/training/jenkins-essentials-lfs267",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4qR6kuw",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Node.js Services Development (LFW212)",
+      "product_url": "/training/node-js-services-development-lfw212",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4ovgHm6",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Management & Strategy",
+      "product_url": "/training/open-source-management-and-strategy",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oVvV3q",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "RISC-V Fundamentals (LFD210)",
+      "product_url": "/training/riscv-fundamentals-lfd210",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47YJfON",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "PyTorch Essentials: An Applications-First Approach (LFD273)",
+      "product_url": "/training/pytorch-essentials-an-applications-first-approach-lfd273",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47FWwuq",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Developing Solutions with FDC3 (LFD237)",
+      "product_url": "/training/developing-solutions-with-fdc3-lfd237",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hI7TGG",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "RISC-V Foundational Associate (RVFA)",
+      "product_url": "/certification/linux-foundation-risc-v-foundational-associate",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hRsqsK",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Serverless and Event-Driven Applications with Knative (LFS246)",
+      "product_url": "/training/serverless-and-event-driven-applications-with-knative-lfs246",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47HkhlX",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Hyperledger Fabric: Design, Develop and Deploy (LFS270)",
+      "product_url": "/training/hyperledger-fabric-design-develop-and-deploy-lfs270",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4p1wVDn",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Cloud Cost Monitoring for FinOps with OpenCost (LFS248)",
+      "product_url": "/training/cloud-cost-monitoring-for-finops-with-opencost-lfs248",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oXRlwZ",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Essentials for Developers (LFD221)",
+      "product_url": "/training/open-source-essentials-for-developers-lfd221",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47JJmfQ",
+      "type": "course",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "FINOS Certified FDC3 Practitioner (FCFP)",
+      "product_url": "/certification/finos-certified-fdc3-practitioner",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JFllia",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Hyperledger Fabric: Design, Develop, and Deploy (LFS270) + Hyperledger Fabric Certified Practitioner (HFCP) Exam Bundle",
+      "product_url": "/certification/hyperledger-fabric-design-develop-and-deploy-lfs270-hyperledger-fabric-certified-practitionere-hfcp-exam-bundle",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4oU8Kqj",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Hyperledger Fabric Certified Practitioner (HFCP)",
+      "product_url": "/certification/hyperledger-fabric-certified-practitioner-hfcp",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/3JHzNWL",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Besu Certified Professional (BCP)",
+      "product_url": "/certification/besu-certified-professional",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4ozCqJK",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "Open Source Essentials for Developers (LFD221) + Certified Open Source Developer for Enterprise (CODE) Exam Bundle",
+      "product_url": "/certification/code-associate",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/47JHV15",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    },
+    {
+      "title": "FINOS Financial Services Certified Open Source Developer (FSOSD)",
+      "product_url": "/certification/finos-open-source-developer-fsosd",
+      "code": "40KUBE25CD",
+      "discount_type": "percent",
+      "discount_value": 40,
+      "direct_link": "https://tidd.ly/4hMXEBc",
+      "type": "certification",
+      "description": "",
+      "recommended_study_materials": []
+    }
+  ]
