@@ -4,7 +4,7 @@
     "product_url": "/certification/kubestronaut-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4kRb0xa",
     "type": "certification"
   },
@@ -13,7 +13,7 @@
     "product_url": "/collections/golden-kubestronaut",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4ijaE09",
     "type": "certification"
   },
@@ -22,7 +22,7 @@
     "product_url": "/certification/certified-kubernetes-administrator-cka",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DFkSJP",
     "type": "certification"
   },
@@ -31,7 +31,7 @@
     "product_url": "/certification/certified-kubernetes-application-developer-ckad",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DDuXXK",
     "type": "certification"
   },
@@ -40,7 +40,7 @@
     "product_url": "/certification/certified-kubernetes-security-specialist",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4iuILmo",
     "type": "certification"
   },
@@ -49,7 +49,7 @@
     "product_url": "/certification/kubernetes-cloud-native-associate",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3R6IcDd",
     "type": "certification"
   },
@@ -58,7 +58,7 @@
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3R9ODWa",
     "type": "certification"
   },
@@ -67,7 +67,7 @@
     "product_url": "/certification/prometheus-certified-associate",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/426M1i0",
     "type": "certification"
   },
@@ -76,7 +76,7 @@
     "product_url": "/certification/istio-certified-associate-ica",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4isMzEG",
     "type": "certification"
   },
@@ -85,7 +85,7 @@
     "product_url": "/certification/certified-argo-project-associate-capa",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3R6IWrZ",
     "type": "certification"
   },
@@ -94,7 +94,7 @@
     "product_url": "/certification/certified-gitops-associate-cgoa",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DGixye",
     "type": "certification"
   },
@@ -103,7 +103,7 @@
     "product_url": "/certification/cilium-certified-associate-cca",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/422X77M",
     "type": "certification"
   },
@@ -112,7 +112,7 @@
     "product_url": "/certification/certified-backstage-associate-cba",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4iu6NxX",
     "type": "certification"
   },
@@ -121,7 +121,7 @@
     "product_url": "/certification/opentelemetry-certified-associate-otca",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4kRaAa8",
     "type": "certification"
   },
@@ -130,7 +130,7 @@
     "product_url": "/certification/kyverno-certified-associate-kca",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DGSBT6",
     "type": "certification"
   },
@@ -139,7 +139,7 @@
     "product_url": "/certification/linux-foundation-certified-sysadmin-lfcs",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FEvqcE",
     "type": "certification"
   },
@@ -148,7 +148,7 @@
     "product_url": "/certification/certified-cloud-native-platform-engineering-associate-cnpa",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/45PcpPN",
     "type": "certification"
   },
@@ -157,7 +157,7 @@
     "product_url": "/certification/certified-it-associate",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47YNLge",
     "type": "certification"
   },
@@ -166,7 +166,7 @@
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FsOhYh",
     "type": "certification"
   },
@@ -175,7 +175,7 @@
     "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4bP59V8",
     "type": "certification"
   },
@@ -184,7 +184,7 @@
     "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/424IQYb",
     "type": "certification"
   },
@@ -193,7 +193,7 @@
     "product_url": "/collections/cks-and-cka-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hwPQla",
     "type": "certification"
   },
@@ -202,7 +202,7 @@
     "product_url": "/training/kcna-cka-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DHQKgO",
     "type": "course"
   },
@@ -211,7 +211,7 @@
     "product_url": "/certification/cka-ckad-cks-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4j5MZR3",
     "type": "certification"
   },
@@ -220,7 +220,7 @@
     "product_url": "/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4iXvJhJ",
     "type": "certification"
   },
@@ -229,7 +229,7 @@
     "product_url": "/collections/cka-upgrade-to-kubestronaut-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4deE9Pz",
     "type": "certification"
   },
@@ -238,7 +238,7 @@
     "product_url": "/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4j5O8bp",
     "type": "certification"
   },
@@ -247,7 +247,7 @@
     "product_url": "/certification/istio-service-mesh-essentials-lfs245istio-certified-associate-ica-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3XMREiY",
     "type": "certification"
   },
@@ -256,7 +256,7 @@
     "product_url": "/certification/lfs256-capa",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FtPsGU",
     "type": "certification"
   },
@@ -265,7 +265,7 @@
     "product_url": "/certification/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3XPeHJY",
     "type": "certification"
   },
@@ -274,7 +274,7 @@
     "product_url": "/certification/fundamentals-of-open-source-it-and-cloud-computing-lfs200-linux-foundation-certified-it-associate-lfca-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3Dvg3Tr",
     "type": "certification"
   },
@@ -283,7 +283,7 @@
     "product_url": "/certification/lfs241-pca",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FTxKNq",
     "type": "certification"
   },
@@ -292,7 +292,7 @@
     "product_url": "/certification/certified-open-source-developer-for-enterprise-code",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47sYa3O",
     "type": "certification"
   },
@@ -301,7 +301,7 @@
     "product_url": "/training/cloud-engineer-itprofessionalprogram",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4qvPX6e",
     "type": "course"
   },
@@ -310,7 +310,7 @@
     "product_url": "/training/kubernetes-for-developers",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/43aHUC1",
     "type": "course"
   },
@@ -319,7 +319,7 @@
     "product_url": "/training/kubernetes-fundamentals",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3WDudI5",
     "type": "course"
   },
@@ -328,7 +328,7 @@
     "product_url": "/training/devops-and-sre-fundamentals-implementing-continuous-delivery-lfs261",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/43XSah5",
     "type": "course"
   },
@@ -337,7 +337,7 @@
     "product_url": "/certification/risc-v-fundamentals-lfd210-rvfa-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oQUf6t",
     "type": "certification"
   },
@@ -346,7 +346,7 @@
     "product_url": "/training/kubernetes-security-essentials-lfs260",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4nNjK7X",
     "type": "course"
   },
@@ -355,7 +355,7 @@
     "product_url": "/training/gitops-continuous-delivery-on-kubernetes-with-flux-lfs269",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4ouVRTQ",
     "type": "course"
   },
@@ -364,7 +364,7 @@
     "product_url": "/training/implementing-devsecops-lfs262",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47NcFOV",
     "type": "course"
   },
@@ -373,7 +373,7 @@
     "product_url": "/training/kubernetes-and-cloud-native-essentials-lfs250",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oQq3bK",
     "type": "course"
   },
@@ -382,7 +382,7 @@
     "product_url": "/training/introduction-to-open-source-development-git-and-linux",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oZtMnr",
     "type": "course"
   },
@@ -391,7 +391,7 @@
     "product_url": "/training/fundamentals-of-open-source-it-and-cloud-computing-lfs200",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hMokBP",
     "type": "course"
   },
@@ -400,7 +400,7 @@
     "product_url": "/training/linux-system-administration-essentials-lfs207",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3Jz6INo",
     "type": "course"
   },
@@ -409,7 +409,7 @@
     "product_url": "/training/linux-for-cloud-technicians-essentials-lfs203",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hPWoNE",
     "type": "course"
   },
@@ -418,7 +418,7 @@
     "product_url": "/training/mastering-infrastructure-security-strategies-tools-and-practices-skf200",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hPwslh",
     "type": "course"
   },
@@ -427,7 +427,7 @@
     "product_url": "/training/threat-modeling-the-essentials-toolkit-skf201",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3JO7Exl",
     "type": "course"
   },
@@ -436,7 +436,7 @@
     "product_url": "/training/ci-cd-with-jenkins-x-lfs268",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/43kf2r0",
     "type": "course"
   },
@@ -445,7 +445,7 @@
     "product_url": "/training/nodejs-application-development-lfw211",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/43jeUYN",
     "type": "course"
   },
@@ -454,7 +454,7 @@
     "product_url": "/training/cloud-native-logging-with-fluentd-lfs242",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4nHFiCW",
     "type": "course"
   },
@@ -463,7 +463,7 @@
     "product_url": "/training/containers-fundamentals",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oKUTDf",
     "type": "course"
   },
@@ -472,7 +472,7 @@
     "product_url": "/training/managing-kubernetes-applications-with-helm-lfs244",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3JJCebn",
     "type": "course"
   },
@@ -481,7 +481,7 @@
     "product_url": "/training/monitoring-systems-and-services-with-prometheus-lfs241",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4nGpoZk",
     "type": "course"
   },
@@ -490,7 +490,7 @@
     "product_url": "/training/service-mesh-fundamentals-lfs243",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/43MXofy",
     "type": "course"
   },
@@ -499,7 +499,7 @@
     "product_url": "/training/containers-for-developers-and-quality-assurance",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3LrD6lB",
     "type": "course"
   },
@@ -508,7 +508,7 @@
     "product_url": "/training/mastering-kubernetes-security-with-kyverno-lfs255",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4nLK2HM",
     "type": "course"
   },
@@ -517,7 +517,7 @@
     "product_url": "/training/mastering-kubernetes-event-driven-autoscaling-with-keda-lfs257",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/497vA9q",
     "type": "course"
   },
@@ -526,7 +526,7 @@
     "product_url": "/training/devops-and-workflow-management-with-argo-lfs256",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oUgd8L",
     "type": "course"
   },
@@ -535,7 +535,7 @@
     "product_url": "/training/istio-service-mesh-essentials-lfs245",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47IrO3E",
     "type": "course"
   },
@@ -544,7 +544,7 @@
     "product_url": "/training/open-source-introduction-lfc202",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3X1HNFr",
     "type": "course"
   },
@@ -553,7 +553,7 @@
     "product_url": "/training/open-source-business-strategy-lfc203",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4qMUWzG",
     "type": "course"
   },
@@ -562,7 +562,7 @@
     "product_url": "/training/effective-open-source-program-management-lfc204",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47yzh5i",
     "type": "course"
   },
@@ -571,7 +571,7 @@
     "product_url": "/training/open-source-development-practices-lfc205",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3JMyW7m",
     "type": "course"
   },
@@ -580,7 +580,7 @@
     "product_url": "/training/open-source-compliance-programs-lfc206",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3JonmiJ",
     "type": "course"
   },
@@ -589,7 +589,7 @@
     "product_url": "/training/collaborating-effectively-with-open-source-projects-lfc207",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oD5nUM",
     "type": "course"
   },
@@ -598,7 +598,7 @@
     "product_url": "/training/creating-open-source-projects-lfc208",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4otSmwZ",
     "type": "course"
   },
@@ -607,7 +607,7 @@
     "product_url": "/training/jenkins-essentials-lfs267",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4qR6kuw",
     "type": "course"
   },
@@ -616,7 +616,7 @@
     "product_url": "/training/node-js-services-development-lfw212",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4ovgHm6",
     "type": "course"
   },
@@ -625,7 +625,7 @@
     "product_url": "/training/open-source-management-and-strategy",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oVvV3q",
     "type": "course"
   },
@@ -634,7 +634,7 @@
     "product_url": "/training/riscv-fundamentals-lfd210",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47YJfON",
     "type": "course"
   },
@@ -643,7 +643,7 @@
     "product_url": "/training/pytorch-essentials-an-applications-first-approach-lfd273",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47FWwuq",
     "type": "course"
   },
@@ -652,7 +652,7 @@
     "product_url": "/training/developing-solutions-with-fdc3-lfd237",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hI7TGG",
     "type": "course"
   },
@@ -661,7 +661,7 @@
     "product_url": "/certification/linux-foundation-risc-v-foundational-associate",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hRsqsK",
     "type": "certification"
   },
@@ -670,7 +670,7 @@
     "product_url": "/training/serverless-and-event-driven-applications-with-knative-lfs246",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47HkhlX",
     "type": "course"
   },
@@ -679,7 +679,7 @@
     "product_url": "/training/hyperledger-fabric-design-develop-and-deploy-lfs270",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4p1wVDn",
     "type": "course"
   },
@@ -688,7 +688,7 @@
     "product_url": "/training/cloud-cost-monitoring-for-finops-with-opencost-lfs248",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oXRlwZ",
     "type": "course"
   },
@@ -697,7 +697,7 @@
     "product_url": "/training/open-source-essentials-for-developers-lfd221",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47JJmfQ",
     "type": "course"
   },
@@ -706,7 +706,7 @@
     "product_url": "/certification/finos-certified-fdc3-practitioner",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3JFllia",
     "type": "certification"
   },
@@ -715,7 +715,7 @@
     "product_url": "/certification/hyperledger-fabric-design-develop-and-deploy-lfs270-hyperledger-fabric-certified-practitionere-hfcp-exam-bundle",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oU8Kqj",
     "type": "certification"
   },
@@ -724,7 +724,7 @@
     "product_url": "/certification/hyperledger-fabric-certified-practitioner-hfcp",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3JHzNWL",
     "type": "certification"
   },
@@ -733,7 +733,7 @@
     "product_url": "/certification/besu-certified-professional",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4ozCqJK",
     "type": "certification"
   },
@@ -742,7 +742,7 @@
     "product_url": "/certification/code-associate",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47JHV15",
     "type": "certification"
   },
@@ -751,7 +751,7 @@
     "product_url": "/certification/finos-open-source-developer-fsosd",
     "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hMXEBc",
     "type": "certification"
   }
