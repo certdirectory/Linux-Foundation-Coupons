@@ -2,9 +2,9 @@
   {
     "title": "Kubestronaut Bundle",
     "product_url": "/certification/kubestronaut-bundle",
-    "code": "GOLDEN30",
+    "code": "35KUBECD",
     "discount_type": "percent",
-    "discount_value": 30,
+    "discount_value": 35,
     "direct_link": "https://tidd.ly/4kRb0xa",
     "type": "certification"
   },
@@ -20,45 +20,45 @@
   {
     "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
-    "code": "GOLDEN30",
+    "code": "35KUBECD",
     "discount_type": "percent",
-    "discount_value": 30,
+    "discount_value": 35,
     "direct_link": "https://tidd.ly/3DFkSJP",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Application Developer (CKAD)",
     "product_url": "/certification/certified-kubernetes-application-developer-ckad",
-    "code": "GOLDEN30",
+    "code": "35KUBECD",
     "discount_type": "percent",
-    "discount_value": 30,
+    "discount_value": 35,
     "direct_link": "https://tidd.ly/3DDuXXK",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Security Specialist (CKS)",
     "product_url": "/certification/certified-kubernetes-security-specialist",
-    "code": "GOLDEN30",
+    "code": "35KUBECD",
     "discount_type": "percent",
-    "discount_value": 30,
+    "discount_value": 35,
     "direct_link": "https://tidd.ly/4iuILmo",
     "type": "certification"
   },
   {
     "title": "Kubernetes Cloud Native Associate (KCNA)",
     "product_url": "/certification/kubernetes-cloud-native-associate",
-    "code": "GOLDEN30",
+    "code": "35KUBECD",
     "discount_type": "percent",
-    "discount_value": 30,
+    "discount_value": 35,
     "direct_link": "https://tidd.ly/3R6IcDd",
     "type": "certification"
   },
   {
     "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
-    "code": "GOLDEN30",
+    "code": "35KUBECD",
     "discount_type": "percent",
-    "discount_value": 30,
+    "discount_value": 35,
     "direct_link": "https://tidd.ly/3R9ODWa",
     "type": "certification"
   },
