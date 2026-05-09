@@ -2,15 +2,6 @@
 🎉 Linux Foundation Training & Certification Discounts.  Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
 ---
-### [40% OFF] Linux Foundation Bundle Discount [ Expires 7th of May ]
-
-Follow these steps to get **40%** off **ANY** Linux Foundation bundle.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the bundle you wish to purchase
-- [x] Apply the coupon **FOURTH26CD**
-
----
 ### [35% OFF] CKA, CKAD, CKS, KCNA, CKSA & Kubestronaut Bundle [ Expires 30 April ]
 
 Follow these steps to get **35%** off **CKA, CKAD, CKS, KCNA, CKSA & Kubestronaut Bundle**.
