@@ -1,7 +1,6 @@
-# Linux-Foundation-Coupons - As of May 2026
+# Linux-Foundation-Coupons - As of July 2026
 🎉 Linux Foundation Training & Certification Discounts.  Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
-### [Up to 75% OFF] Linux Foundation PRIME DAY Promotion [ Expires 26th June ]
 
 ---
 ### [30% OFF] Linux Foundation Regular Discount [ Unlimited Validity ]
