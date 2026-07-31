@@ -2,7 +2,7 @@
   {
     "title": "Kubestronaut Bundle",
     "product_url": "/certification/kubestronaut-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/4kRb0xa",
@@ -20,45 +20,45 @@
   {
     "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
-    "code": "JULY26CCCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
-    "discount_value": 35,
+    "discount_value": 40,
     "direct_link": "https://tidd.ly/3DFkSJP",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Application Developer (CKAD)",
     "product_url": "/certification/certified-kubernetes-application-developer-ckad",
-    "code": "JULY26CCCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
-    "discount_value": 35,
+    "discount_value": 40,
     "direct_link": "https://tidd.ly/3DDuXXK",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Security Specialist (CKS)",
     "product_url": "/certification/certified-kubernetes-security-specialist",
-    "code": "JULY26CCCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
-    "discount_value": 35,
+    "discount_value": 40,
     "direct_link": "https://tidd.ly/4iuILmo",
     "type": "certification"
   },
   {
     "title": "Kubernetes Cloud Native Associate (KCNA)",
     "product_url": "/certification/kubernetes-cloud-native-associate",
-    "code": "JULY26CCCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
-    "discount_value": 35,
+    "discount_value": 40,
     "direct_link": "https://tidd.ly/3R6IcDd",
     "type": "certification"
   },
   {
     "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
-    "code": "JULY26CCCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
-    "discount_value": 35,
+    "discount_value": 40,
     "direct_link": "https://tidd.ly/3R9ODWa",
     "type": "certification"
   },
@@ -164,7 +164,7 @@
   {
     "title": "CKS and KCSA Exam Bundle",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/3FsOhYh",
@@ -173,7 +173,7 @@
   {
     "title": "KCNA and KCSA Exam Bundle",
     "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/4bP59V8",
@@ -182,7 +182,7 @@
   {
     "title": "CKA and CKAD Exam Bundle",
     "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/424IQYb",
@@ -191,7 +191,7 @@
   {
     "title": "CKA and CKS Exam Bundle",
     "product_url": "/collections/cks-and-cka-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/4hwPQla",
@@ -209,7 +209,7 @@
   {
     "title": "CKA, CKAD and CKS Exam Bundle",
     "product_url": "/certification/cka-ckad-cks-exam-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/4j5MZR3",
@@ -227,7 +227,7 @@
   {
     "title": "CKA to Kubestronaut Upgrade Bundle",
     "product_url": "/collections/cka-upgrade-to-kubestronaut-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/4deE9Pz",
@@ -236,7 +236,7 @@
   {
     "title": "CKAD to Kubestronaut Upgrade Bundle",
     "product_url": "/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle",
-    "code": "JULY26BUNCD",
+    "code": "SUMMER26CD",
     "discount_type": "percent",
     "discount_value": 40,
     "direct_link": "https://tidd.ly/4j5O8bp",
