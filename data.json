@@ -2,9 +2,9 @@
   {
     "title": "Kubestronaut Bundle",
     "product_url": "/certification/kubestronaut-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4kRb0xa",
     "type": "certification"
   },
@@ -13,52 +13,52 @@
     "product_url": "/collections/golden-kubestronaut",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4ijaE09",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Administrator (CKA)",
     "product_url": "/certification/certified-kubernetes-administrator-cka",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DFkSJP",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Application Developer (CKAD)",
     "product_url": "/certification/certified-kubernetes-application-developer-ckad",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DDuXXK",
     "type": "certification"
   },
   {
     "title": "Certified Kubernetes Security Specialist (CKS)",
     "product_url": "/certification/certified-kubernetes-security-specialist",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4iuILmo",
     "type": "certification"
   },
   {
     "title": "Kubernetes Cloud Native Associate (KCNA)",
     "product_url": "/certification/kubernetes-cloud-native-associate",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3R6IcDd",
     "type": "certification"
   },
   {
     "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3R9ODWa",
     "type": "certification"
   },
@@ -164,36 +164,36 @@
   {
     "title": "CKS and KCSA Exam Bundle",
     "product_url": "/certification/kubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FsOhYh",
     "type": "certification"
   },
   {
     "title": "KCNA and KCSA Exam Bundle",
     "product_url": "/certification/kubernetes-and-cloud-native-associate-kcna-kubernetes-and-cloud-native-security-associate-kcsa-exam-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4bP59V8",
     "type": "certification"
   },
   {
     "title": "CKA and CKAD Exam Bundle",
     "product_url": "/certification/certified-kubernetes-administrator-cka-certified-kubernetes-application-developer-ckad-exam-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/424IQYb",
     "type": "certification"
   },
   {
     "title": "CKA and CKS Exam Bundle",
     "product_url": "/collections/cks-and-cka-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4hwPQla",
     "type": "certification"
   },
@@ -202,16 +202,16 @@
     "product_url": "/training/kcna-cka-exam-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3DHQKgO",
     "type": "course"
   },
   {
     "title": "CKA, CKAD and CKS Exam Bundle",
     "product_url": "/certification/cka-ckad-cks-exam-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4j5MZR3",
     "type": "certification"
   },
@@ -220,25 +220,25 @@
     "product_url": "/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4iXvJhJ",
     "type": "certification"
   },
   {
     "title": "CKA to Kubestronaut Upgrade Bundle",
     "product_url": "/collections/cka-upgrade-to-kubestronaut-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4deE9Pz",
     "type": "certification"
   },
   {
     "title": "CKAD to Kubestronaut Upgrade Bundle",
     "product_url": "/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle",
-    "code": "SUMMER26CD",
+    "code": "GOLDEN30",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4j5O8bp",
     "type": "certification"
   },
@@ -247,7 +247,7 @@
     "product_url": "/certification/istio-service-mesh-essentials-lfs245istio-certified-associate-ica-exam-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3XMREiY",
     "type": "certification"
   },
@@ -256,7 +256,7 @@
     "product_url": "/certification/lfs256-capa",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FtPsGU",
     "type": "certification"
   },
@@ -265,7 +265,7 @@
     "product_url": "/certification/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3XPeHJY",
     "type": "certification"
   },
@@ -274,7 +274,7 @@
     "product_url": "/certification/fundamentals-of-open-source-it-and-cloud-computing-lfs200-linux-foundation-certified-it-associate-lfca-exam-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3Dvg3Tr",
     "type": "certification"
   },
@@ -283,7 +283,7 @@
     "product_url": "/certification/lfs241-pca",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/3FTxKNq",
     "type": "certification"
   },
@@ -337,7 +337,7 @@
     "product_url": "/certification/risc-v-fundamentals-lfd210-rvfa-exam-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oQUf6t",
     "type": "certification"
   },
@@ -715,7 +715,7 @@
     "product_url": "/certification/hyperledger-fabric-design-develop-and-deploy-lfs270-hyperledger-fabric-certified-practitionere-hfcp-exam-bundle",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/4oU8Kqj",
     "type": "certification"
   },
@@ -742,7 +742,7 @@
     "product_url": "/certification/code-associate",
     "code": "JULY26BUNCD",
     "discount_type": "percent",
-    "discount_value": 40,
+    "discount_value": 30,
     "direct_link": "https://tidd.ly/47JHV15",
     "type": "certification"
   },
