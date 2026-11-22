@@ -1,27 +1,6 @@
 # Linux-Foundation-Coupons - As of November 2026
 🎉 Linux Foundation Training & Certification Discounts.  Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
-## 🇨🇳 Featured Events
-
-### Quick Discount Summary
-
-| Event | Dates | Location | Pass Type | Original / Offer Price | Discount Code | Registration Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Corporate | ~~$2,278 USD~~ **$1,822 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | All-Access – Individual | ~~$1,278 USD~~ **$1,022 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Corporate | ~~$1,899 USD~~ **$1,519 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-| **KubeCon + CloudNativeCon North America 2026** | Nov 9–12, 2026 | Salt Lake City | KubeCon + CloudNativeCon Only – Individual | ~~$899 USD~~ **$719 USD** (20% off) | `CERTDIRECTORY20` | [Register Here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) |
-
----
-
-### [40% OFF] Linux Foundation November Discount [ Expires 20th November ]
-
-Follow these steps to get **40%** off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **40KUBE26CD**
-
 ---
 
 ### [30% OFF] Linux Foundation Regular Discount [ Unlimited Validity ]
